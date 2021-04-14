@@ -1,0 +1,5 @@
+*.lock
+.vscode/
+examples/
+credentials.json
+.DS_Store
